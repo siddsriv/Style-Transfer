@@ -3,4 +3,4 @@ Applying Neural Style Tranfer to images!
 
 ## Examples
 
-![]('gogh_abstract.png')
+![]('images/gogh_abstract.png')
